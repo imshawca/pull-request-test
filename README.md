@@ -1,6 +1,6 @@
 # pull-request-test
 
-test change
+test change main
 
 test change from collaborator
 hgjhg
